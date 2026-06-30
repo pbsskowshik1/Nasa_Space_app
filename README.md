@@ -1,5 +1,5 @@
 ## Nasa_Space_app
-Space Weather Stories App : Mobile Application for Teaching Space Weather Phenomena and Their Societal Impacts to Young Learners.
+This website is really cool because it teaches kids about space weather. It talks about things like flares and solar wind. The website uses characters and stories to make learning fun. It also has quizzes to help kids see what they have learned about space weather. The website is a place for young learners to learn about space weather and things, like solar flares and solar wind.
 
 go to cd server and in the next line node index.js run it in terminal.
 open cmd and then run this command  in the client file npm run dev.
